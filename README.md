@@ -1,9 +1,9 @@
-<h1 align="center">I'm Terai</h1>
-<em align="center">A passionate senior computer science student</em>
+<h1 align="center">I'm Eikosi-exi</h1>
+<em align="center">A passionate computer science student</em>
 
 - 📫 reach me **eikosi.exi2611@gmail.com**
 
--  **I like cookies**
+-  **I like cookies** 🍪
   
 <p align="left">
 </p>
